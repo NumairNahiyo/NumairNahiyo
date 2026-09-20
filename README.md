@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Numair 👋</h1>
+<h1 align="center">Hi, I'm Imran Nahiyo 👋</h1>
 
 <p align="center">
   <b>Full Stack Developer</b> · 5 years shipping production web apps · Remote from Pakistan
