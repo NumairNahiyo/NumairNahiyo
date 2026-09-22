@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/profile.jpg" width="140" alt="Imran Nahiyo" />
+</p>
+
 <h1 align="center">Hi, I'm Imran Nahiyo 👋</h1>
 
 <p align="center">
